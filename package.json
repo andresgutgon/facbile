@@ -16,7 +16,7 @@
     "jshashes": "1.0.7",
     "random-string": "0.2.0",
     "qs": "6.8.0",
-    "url-parse": "1.4.3",
+    "url-parse": "1.5.0",
     "mobx": "5.9.4",
     "mobx-react": "5.4.3",
     "mobx-rest": "5.0.5",
